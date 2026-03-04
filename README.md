@@ -4,6 +4,6 @@ Systematic reviews, particularly meta-analyses, involve a crucial yet labor-inte
 
 # Notes
 
-The code for the illustrative examples can be found in Illustrative_Examples (1-3).ipynb for examples 1 to 3 and Illustrative Example 4.ipynb for example 4. The output of example 4 is provided in batch_results_4o.csv. To help readers understand the process, we walked through the model output for the first paper in sample_explanation.doc.
+The code for the illustrative examples can be found in Illustrative_Examples (1-3).ipynb for examples 1 to 3 and Illustrative Example 4.ipynb for example 4. The output of example 4 is provided in batch_results_4o.csv. To help readers understand the process, we walked through the model output for the first paper in sample_explanation.doc. The file combined_delay_coding.xlsx showed the human coding from Lu et al. (2023), RAG coding in the example 4, and GPT-4o coding from Jansen et al. (2025).
 
 For the results of an earlier version of Example 4, please refer to the example 4 (archived) in Illustrative_Examples (1-3).ipynb. Also, check "delay_min_result_with_notes.xlsx" for delay length (i.e., "Delay_Length_min") and "delay_ss_result_with_notes.xlsx" for whether the smaller-sooner reward is delayed ("SS_delay_or_Not"). The "notes" column in each file provides explanations for why errors occurred in Jansen et al.'s initial extraction.
